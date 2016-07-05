@@ -1,2 +1,4 @@
 this is test 2
 edit in dev branch
+
+edited in master node after branch modified
