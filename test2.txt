@@ -1,4 +1,11 @@
 this is test 2
 edit in dev branch
 
+<<<<<<< HEAD
 edited in master node after branch modified
+=======
+test new branch
+
+>>>>>>> feature1
+
+fix conflict
